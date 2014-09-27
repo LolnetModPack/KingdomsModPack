@@ -1,0 +1,15 @@
+{
+  "name": "Kingdoms Package",
+  "title": "Kingdoms",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": []
+  },
+  "userFiles": {
+    "include": [
+      "config/Kingdoms.cfg",
+      "options.txt",
+	  "servers.dat"
+    ]
+  }
+}
