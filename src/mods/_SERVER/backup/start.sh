@@ -1,1 +1,0 @@
-screen -dmS ADVENTURE java -Xms1g -Xmx4g -XX:PermSize=512m -jar cauldron.jar

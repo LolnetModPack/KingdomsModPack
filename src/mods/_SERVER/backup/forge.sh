@@ -1,1 +1,0 @@
-java -Xms1g -Xmx3g -XX:PermSize=512M -Dfml.ignoreInvalidMinecraftCertificates=true -jar forge.jar
